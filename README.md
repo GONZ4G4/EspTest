@@ -7,6 +7,13 @@ Este projeto é um estudo simples sobre como criar um protótipo de casa intelig
 - Servidor em Node.js: Um servidor simples é implementado em Node.js utilizando o framework Express.js. Ele fornece uma rota para enviar comandos para o ESP8266, permitindo que o dispositivo atualize o estado dos dispositivos na casa.
 - Front-end: Uma interface web básica foi desenvolvida para permitir que o usuário interaja com o sistema. Utilizando tecnologias como HTML, CSS e JavaScript, a interface permite ao usuário ligar ou desligar dispositivos na casa de forma intuitiva e fácil de usar.
 
+## Componentes Utilizados
+- ESP8266 (NodeMCU)
+- LEDs
+- Resistores (220 ohms)
+- Jumpers
+- Protoboard
+
 ## Funcionamento:
 
 - O usuário interage com a interface web, enviando comandos para ligar ou desligar dispositivos na casa.

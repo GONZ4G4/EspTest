@@ -1,8 +1,8 @@
 #include <ESP8266WiFi.h>
 #include <ESP8266HTTPClient.h>
 
-const char* ssid = "Gozanga_2G";
-const char* password = "E31102310";
+const char* ssid = "*************";
+const char* password = "*************";
 const char* serverAddress = "http://192.168.1.5:3000/estado-string"; // Rota atualizada para receber a string de 0s e 1s
 
 #define LED0 D4
